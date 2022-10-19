@@ -1,9 +1,6 @@
-import matplotlib.pyplot as plt
-from sklearn.datasets import load_iris
-
 from main import PCA
 
-# Testing
+
 if __name__ == "__main__":
     # Imports
     import matplotlib.pyplot as plt
